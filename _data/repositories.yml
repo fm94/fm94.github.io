@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fm94
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - lkwq007/stablediffusion-infinity
+  - CN-TU/go-flows
+  - GoogleCloudPlatform/mlops-on-gcp
