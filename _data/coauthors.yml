@@ -1,35 +1,34 @@
-"Zseby":
-  - firsname: ["Tanja"]
-  - url: https://tuwien.ac.at
+"Adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"V{\'a}zquez":
-  - firsname: ["F{\'e}lix", "F.", "F. I.", "F{\'e}lix Iglesias"]
-  - url: https://tuwien.ac.at
+"Podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Bachl":
-  - firsname: ["Maximilian"]
-  - url: https://tuwien.ac.at
+"Rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Fabini":
-  - firsname: ["Joachim"]
-  - url: https://tuwien.ac.at
+"Bach": 
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"Annessi":
-  - firsname: ["Robert"]
-  - url: https://tuwien.ac.at
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Schmied":
-  - firsname: ["Thomas"]
-  - url: https://tuwien.ac.at
+"Przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"G{\"a}rtner":
-  - firsname: ["Thomas"]
-  - url: https://tuwien.ac.at
+"Schrödinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"Hartl":
-  - firsname: ["Alexander"]
-  - url: https://tuwien.ac.at
+"Lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
-"Breitenfellner":
-  - firsname: ["Claudia"]
-  - url: https://tuwien.ac.at
+"Planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
