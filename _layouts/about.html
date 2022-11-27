@@ -41,14 +41,17 @@ layout: default
           </div>
 
           {% if page.news -%}
+          <hr>
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
           {% if page.selected_papers -%}
+            <hr>
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
           {%- if page.social %}
+          <hr>
           <!-- Social -->
           <div class="social">
             <div class="contact-icons">
