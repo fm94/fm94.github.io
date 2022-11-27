@@ -1,34 +1,36 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Zseby":
+    - firstname: ["Tanja"]
+      url: https://tuwien.ac.at
+  
+  "V{\'a}zquez":
+    - firstname: ["F{\'e}lix", "F.", "F. I.", "F{\'e}lix Iglesias"]
+      url: https://tuwien.ac.at
+  
+  "Bachl":
+    - firstname: ["Maximilian"]
+      url: https://tuwien.ac.at
+  
+  "Fabini":
+    - firstname: ["Joachim"]
+      url: https://tuwien.ac.at
+  
+  "Annessi":
+    - firstname: ["Robert"]
+      url: https://tuwien.ac.at
+  
+  "Schmied":
+    - firstname: ["Thomas"]
+      url: https://tuwien.ac.at
+  
+  "G{\"a}rtner":
+    - firstname: ["Thomas"]
+      url: https://tuwien.ac.at
+  
+  "Hartl":
+    - firstname: ["Alexander"]
+      url: https://tuwien.ac.at
+  
+  "Breitenfellner":
+    - firstname: ["Claudia"]
+      url: https://tuwien.ac.at
+  
