@@ -1,0 +1,1 @@
+I've now started implementing YOLOv3 in C++. The goal is to get familiar with the language and imporve the FPS from my last python implementation. Currently focusing on inference. Porject is <a href"https://github.com/fm94/yolov3-from-scratch-cpp">here</a>
