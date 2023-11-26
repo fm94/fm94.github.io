@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Project 1
+title: Project test
 description: again, testing projects page
 img: assets/img/12.jpg
 importance: 1

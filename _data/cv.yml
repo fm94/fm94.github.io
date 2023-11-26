@@ -2,13 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: FaresMeghdouri
-    - name: Date of Birth
-      value: 10th April 1994
+      value: Dr. FaresMeghdouri
     - name: Languages
       value: English, German, French, Arabic
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Astronomy, Electronics, Swimming etc.
+    - <u>Hobbies:</u> Astrophotography, Electronics, Swimming.

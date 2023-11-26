@@ -2,9 +2,11 @@ github_users:
   - fm94
 
 github_repos:
-  - lkwq007/stablediffusion-infinity
-  - CN-TU/go-flows
+  - fm94/ImageLookup
+  - fm94/yolov3-from-scratch
+  - jordan-cutler/path-to-senior-engineer-handbook
   - GoogleCloudPlatform/mlops-on-gcp
+  - lkwq007/stablediffusion-infinity
 
 research_github_repos:
   - CN-TU/pyodm
