@@ -2,6 +2,7 @@ github_users:
   - fm94
 
 github_repos:
+  - fm94/NER
   - fm94/ImageLookup
   - fm94/yolov3-from-scratch
   - jordan-cutler/path-to-senior-engineer-handbook
