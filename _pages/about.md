@@ -20,4 +20,4 @@ Hello there, I am `Fares`, and welcome to my small space. I am a `deep learning 
 
 I share my thoughts, publications, hobby projects, and more on this website. Be aware that I only share my own thoughts and opinion, so don't be offended if you do not share the same opinion. Enjoy!
 
-Please let me know if anything can be improved or if you wish to discuss my ideas/posts.
+Wish to discuss/share ideas? contact me at meghfares@hotmail.com.
